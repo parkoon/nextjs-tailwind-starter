@@ -2,7 +2,6 @@ import type { NextPage } from 'next';
 import Head from 'next/head';
 
 const Home: NextPage = () => {
-  console.log('hello');
   return (
     <div>
       <Head>
